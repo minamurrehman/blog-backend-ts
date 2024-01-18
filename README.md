@@ -20,7 +20,7 @@ Finally, you can run the project:
 npm run dev
 ```
 
-###Technologies:
+### Technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
@@ -28,7 +28,7 @@ npm run dev
 - [Mongoose](https://mongoosejs.com/)
 - [Typescript](https://www.typescriptlang.org/)
 
-###Functionalities:
+### Functionalities:
 
 - User Authentication
 - User Authorization
